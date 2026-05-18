@@ -2,7 +2,7 @@
 
 
 
-This project helps you learn **Building and Deploying an ML Model** using a simple and real-world use case: predicting whether a person is diabetic based on health metrics. We’ll go from:
+This project helps one learn **Building and Deploying an ML Model** using a simple and real-world use case: predicting whether a person is diabetic based on health metrics. We’ll go from:
 
 - ✅ Model Training
 - ✅ Building the Model locally
@@ -21,7 +21,7 @@ Predict if a person is diabetic based on:
 - BMI
 - Age
 
-We use a Random Forest Classifier trained on the **Pima Indians Diabetes Dataset**.
+we use a Random Forest Classifier trained on the **Pima Indians Diabetes Dataset**.
 
 ---
 
